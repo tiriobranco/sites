@@ -1,0 +1,88 @@
+html,
+body {
+    width: 801px;
+    height: 221px;
+    line-height: 0.3;
+    font-weight: 500;
+}
+.assinatura {
+    position: relative;
+    left: 0px;
+    right: 0px;
+    width: 801px;
+    height: 221px;
+}
+
+#image {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    width: 801px;
+    height: 221px;
+}
+
+#texto {
+    position: absolute;
+    font-family: 'Segoe UI';
+    left: 240px;
+    top: 45px;
+    color: #0044a5;
+}
+
+#texto #nome {
+
+    text-align: center;
+
+}
+
+#btn-Preview-Image {
+    position: absolute;
+    top: 250px;
+    padding: 7px;
+ cursor: pointer;    border-radius: 30px;
+    background-color: #0048ad;
+    color: aliceblue;
+}
+
+#idTable {
+    position: absolute;
+    border: 0px solid black;
+    left: 203px;
+    top: 51px;
+    color: #0044a5;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td {
+    border: solid 0px; 
+    padding: 0;
+    width: 430px;
+    font-size: 30px;
+    font-family: 'Segoe UI';
+}
+
+#email {
+    font-family: 'Segoe UI';
+    font-size: 19px;
+    padding: 0px;
+}
+
+#tel {
+    font-family: 'Segoe UI';
+    font-size: 19px;
+}
+
+#cg {
+    font-family: 'Segoe UI';
+    font-size: 22px;
+    line-height: 1.5;
+    height: 10px;
+}
+
+#nome {
+    font-family: 'Segoe UI';
+    font-size: 30px;
+    font-weight: 630;
+    line-height: 0;
+}
